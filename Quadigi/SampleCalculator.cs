@@ -8,7 +8,7 @@ namespace Quadigi
 
         public SampleCalculator(DateTime startOfSampling, int interval = 300)
         {
-            _interval = new TimeSpan(0, 0, 300);
+            _interval = new TimeSpan(0, 0, interval);
             _startOfSampling = startOfSampling;
         }
 
