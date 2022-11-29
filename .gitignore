@@ -3,3 +3,7 @@
 ################################################################################
 
 /UnitTests/bin/Debug/net6.0
+/Quadigi/.vs
+/Quadigi/bin/Debug/net6.0
+/Quadigi/obj
+/UnitTests/obj
