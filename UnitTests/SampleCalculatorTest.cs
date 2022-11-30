@@ -4,7 +4,6 @@ using System.Linq;
 
 namespace UnitTests
 {
-
     public class SampleCalculatorTest
     {
         private List<Measurement> _unsampledMeasurements = new ();
@@ -91,8 +90,4 @@ namespace UnitTests
             secondSpo2.Value.Should().Be(95.08);
         }
     }
-
-    
-
-
 }
